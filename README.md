@@ -1,3 +1,5 @@
+<img src="tu-imagen-rectangular.png" width="100%" alt="José R. Blanco - V1ch1 Profile Banner">
+
 # ¡Hola! Soy José R. Blanco 👋
 
 ### Full Stack Developer | Especializado en React, Next.js, Wordpress y Automatización
