@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy José R. Blanco 👋
 
-<!--
-**V1ch1/V1ch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Especializado en React, Next.js, Wordpress y Automatización
 
-Here are some ideas to get you started:
+Actualmente me enfoco en el desarrollo de soluciones robustas de administración y paneles de control. Aunque la mayoría de mi trabajo reciente reside en repositorios privados bajo acuerdos de confidencialidad (NDA), mi actividad diaria refleja mi compromiso con la entrega constante de código de calidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Stack Técnico
+
+- **Frontend & Web:** Especialista en **React.js** y **Next.js** (SSR/SSG). Experiencia avanzada en estilos con **Tailwind CSS** y **Styled Components**.
+- **Backend & Data:** **Node.js** y **Express**, diseño e integración de APIs RESTful, y gestión de bases de datos **PostgreSQL** y **MongoDB**.
+- **CMS & Headless:** Desarrollo avanzado en **WordPress**, creación de **plugins a medida** y arquitecturas desacopladas.
+
+### ⚙️ Automatización y Arquitectura
+
+- **Low-Code & Workflows: **n8n** para la automatización de procesos empresariales y conexión de ecosistemas digitales.
+- **Arquitectura:** Diseño de sistemas basados en arquitecturas escalables, limpias y orientadas a microservicios.
+- **Workflow:** Git (GitFlow), CI/CD y metodologías ágiles (Scrum/Kanban).
+
+### 📊 Especialidades
+* Desarrollo de Dashboards dinámicos y Paneles de Administración (Backoffice).
+* CRMs personalizados y herramientas de gestión empresarial (B2B).
+* Optimización de procesos mediante automatizaciones inteligentes.
+
+---
+
+📍 Base en A Coruña, España. 
