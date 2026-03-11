@@ -1,4 +1,4 @@
-<img src="tu-imagen-rectangular.png" width="100%" alt="José R. Blanco - V1ch1 Profile Banner">
+<img src="Gemini_Generated_Image_4hj7004hj7004hj7.png" width="100%" alt="José R. Blanco - V1ch1 Profile Banner">
 
 # ¡Hola! Soy José R. Blanco 👋
 
